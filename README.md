@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+##### I'm Jabez, a data engineer
+
+[LinkedIn][] | [Website][]
+
+[LinkedIn]: https://www.linkedin.com/in/jabeztay/
+[Website]: https://jabeztay.com
+
 <!--
 **jabeztay/jabeztay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
